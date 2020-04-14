@@ -14,17 +14,15 @@ The features which affect the ratings the most are also discussed.
 
 ## DataSet Used
 We used a 5-core Amazon review dataset provided by (Ni, 2018). The chosen dataset contains product
-reviews of Cell phones and Accessories purchased from Amazon.com.
+reviews of Cell phones and Accessories purchased from Amazon.com. 
 
 Ni, J. (2018). Amazon review data (2018): https://nijianmo.github.io/amazon/index.html. <br/>
 DataSet direct download link :  http://deepyeti.ucsd.edu/jianmo/amazon/categoryFilesSmall/Cell_Phones_and_Accessories_5.json.gz
 
 
 ## Analysis and Implementation
-Analysis and Code available in JupyterNotebook - ReviewAnalysis.ipynb
+Analysis and Code available in JupyterNotebook - [ReviewAnalysis.ipynb](ReviewAnalysis.ipynb)
 
-## Report/Paper
-Complete report/paper : 
 
 ## Minutes of meetings
-Minutes of meetings file: Minutes of meetings-Group14-TA-CS7IS4
+Minutes of meetings can be found at [Minutes of meetings-Group14-TA-CS7IS4](Minutes%20of%20meetings-Group14-TA-CS7IS4)
