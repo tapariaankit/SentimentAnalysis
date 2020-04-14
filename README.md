@@ -21,7 +21,10 @@ DataSet direct download link :  http://deepyeti.ucsd.edu/jianmo/amazon/categoryF
 
 
 ## Analysis and Implementation
-Code available in JupyterNotebook - ReviewAnalysis.ipynb
+Analysis and Code available in JupyterNotebook - ReviewAnalysis.ipynb
+
+## Report/Paper
+Complete report/paper : 
 
 ## Minutes of meetings
 Minutes of meetings file: MinutesOfMeeting.txt
