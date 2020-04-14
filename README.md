@@ -25,4 +25,4 @@ Analysis and Code available in JupyterNotebook - [ReviewAnalysis.ipynb](ReviewAn
 
 
 ## Minutes of meetings
-Minutes of meetings can be found at [Minutes of meetings-Group14-TA-CS7IS4](Minutes%20of%20meetings-Group14-TA-CS7IS4)
+Minutes of meetings can be found in the file - [Minutes of meetings-Group14-TA-CS7IS4](Minutes%20of%20meetings-Group14-TA-CS7IS4)
