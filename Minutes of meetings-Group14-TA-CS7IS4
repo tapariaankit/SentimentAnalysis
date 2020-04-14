@@ -1,1 +1,76 @@
-test
+Minutes of meetings
+
+Feb 7th 2020:
+1. It was decided that each team member will research about the project topic and present in the next meeting.
+
+Feb 11th 2020:
+1. Each team member presented their individual topics.
+2. The Topics were: 
+	a.	Age detection of blogs
+	b.	Glassdoor, doctor, restaurants,Amazon reviews. 
+	c.	Depression Detection
+	d.	Sarcasm Detection
+	e.	Catfish detection
+	3. Discussed feasibility of each topic in terms of data availability and evaulation methods.
+
+Feb 14th 2020:
+1. Went through research papers and checked data availability for each topic.
+2. Unanimously decided to go with Sentiment Analysis of Amazon reviews.
+
+Feb 17th 2020:
+1. Had a meeting with the professor.
+2. Presented the finalised topic to the professor and discussed the expectations of project.
+3. Professor suggested us to analyse the out of text property along with the sentiment analysis.
+
+Feb 21st 2020:
+1. Had second meeting with the professor.
+2. Discussed the topic in detail.
+3. Drafted the hypothesis: "Sentiments of the reviews decide the ratings."
+
+Feb 28th 2020:
+1. Discussed various methodologies for performing sentiment analysis of the reviews.
+2. Had a discussion on 3 to 4 review datasets and finalised the one met our requirements of having overall ratings.
+3. Distributed the tasks among all team members as per their skillsets.
+
+March 5th 2020:
+For mid term essay submission following individual tasks of team members were decided upon:
+
+Role: Verifier
+  Dataset collection, pre-processing and analysis
+  Handling the experimental setup
+
+Role: Chair
+  Literature review, abstract.
+  Polarity detection of the reviews.
+
+Role: Accountant
+  Writing the Introduction.
+  Writing the conclusion, future work and research on finding correlation between reviews and ratings.
+
+Role: Recorder
+  Read papers on related work and help draft the Literature review. 
+  Reviewing of introduction part.
+
+Role: Ambassador
+  Feature extraction from textual reviews
+  Handling the Experimental setup
+
+
+March 19th 2020:
+1. Each team member researched and implemented different Sentiment analysis methods on reviews corpora and presented the results.
+2. Discussed on improvements in the methodologies implemented.
+3. Had a discussion about feature extraction indetail. 
+4. Need for going through more research papers was concluded from the discussion.
+
+
+March 26th 2020:
+1. Each member implemented better modified learning methods.
+2. Discussed on various features that can be extracted from the reviews which may affect the ratings prediction.
+3. Best performing method was decided based on the % of accuracy achieved in ratings prediction.
+
+
+April 11th 2020:
+1. Found the correlation between all the extracted features and overall ratings.
+2. Discussed about results and implemented the changes to improve the overall accuracy of predictions.
+3. Distributed the remaining parts of the Final essay among all members.
+4. Consolidated the Data and Code on GitHub.
