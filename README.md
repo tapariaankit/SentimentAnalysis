@@ -27,4 +27,4 @@ Analysis and Code available in JupyterNotebook - ReviewAnalysis.ipynb
 Complete report/paper : 
 
 ## Minutes of meetings
-Minutes of meetings file: MinutesOfMeeting.txt
+Minutes of meetings file: Minutes of meetings-Group14-TA-CS7IS4
